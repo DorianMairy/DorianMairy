@@ -7,7 +7,7 @@
 
 | Question | Réponse |
 | ----------- | ----------- |
-| Anniversaire : | 20/03 |
+| Anniversaire : | 20/03/2000 |
 | Couleur préférée : | Vert |
 | Nourriture favorite : | Hamburgeur |
 | Ananas sur pizza : | <ul><li>[ ] No<li>[x] Yes</ul> |
