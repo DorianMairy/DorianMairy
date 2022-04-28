@@ -21,16 +21,12 @@
 
 ### You can always count on me when... 
 
-    Tell your teammates which positive contribution to the group you will make.
-    This could be technical, making people feel comfortable, being an organiser...
+    Je suis la pour vous aidez quand vous avec besoin d'aide et quand j'ai compris comment faire , je suis de nature trés calme et patient.
 
-    A funny story (smaller header)
+#### A funny story 
 
-    Tell a short funny story about your life.
+    On ma déja oublié en soirée loin de chez moi et personne n'etais au courant jusqu'au landemain. :joy:
 
-    TL;DR (even smaller header, under funny story)
-
-    Summarise your funny story in one short sentence.
 
     ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
     Organise yourself so it is easy to know who you should link to.
