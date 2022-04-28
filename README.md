@@ -1,17 +1,13 @@
-    # Dorian Mairy
+# Dorian Mairy
 
-    *« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
+*« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
 
-    A (professional) photo of yourself (you can save the file in the repository next to the README file)
+"Me, in one sentence" (as a smaller header)
 
-    "Me, in one sentence" (as a smaller header)
-
-    A table with the following structure:
-
-    Birthday: dd/mm
-    Favorite color: ?
-    Favorite food: ?
-    Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+| Birthday: 20/03 |
+| Favorite color: Vert |
+| Favorite food: Hamburgeur. |
+| Pinneapple on pizza: Yes/No |
 
     Hobbies (smaller header)
 
