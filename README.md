@@ -29,4 +29,4 @@ j'ai compris comment faire , je suis de nature trés calme et patient.
 On ma déja oublié en soirée loin de chez moi et personne 
 On'etais au courant jusqu'au landemain. :joy:
 
-[<<](https://www.linkedin.com/in/arthur-lefevre-4823a514a/) | Dorian Mairy | [>>](https://www.linkedin.com/in/duc-luu-a3a55029/)
+[<<](https://github.com/kingdragox99/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/luuduc34/markdown-challenge/blob/main/README.md)
