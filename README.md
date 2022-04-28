@@ -10,7 +10,7 @@
 | Anniversaire : | 20/03 |
 | Couleur préférée : | Vert |
 | Nourriture favorite : | Hamburgeur |
-| Ananas sur pizza : | **Yes!!** |
+| Ananas sur pizza : | <ul><li>test</li>test<li>/li></ul> |
 
 
 ## Passe-temps ##
