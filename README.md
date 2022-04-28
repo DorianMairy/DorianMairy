@@ -30,6 +30,6 @@ j'ai compris comment faire , je suis de nature trés calme et patient.
 #### Une histoire drôle ####
 
 On ma déja oublié en soirée loin de chez moi et personne 
-On'etais au courant jusqu'au landemain. :joy:
+n'etais au courant jusqu'au landemain. :joy:
 
 [<<](https://github.com/luuduc34/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
