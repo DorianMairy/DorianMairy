@@ -3,15 +3,12 @@
 *« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
 
 
-
+| Question | Réponse |
+| ----------- | ----------- |
 | Birthday: 20/03 |
-| Favorite color: Vert |
-| Favorite food: Hamburgeur |
-| Pinneapple on pizza: Yes/No |
-
-| Syntax | Description |
-| Header | Title |
-| Paragraph | Text | 
+| Favorite color : | Vert |
+| Favorite food : | Hamburgeur |
+| Pinneapple on pizza : | Yes/No |
 
 
     Hobbies (smaller header)
