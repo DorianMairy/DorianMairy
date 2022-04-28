@@ -36,4 +36,4 @@ n'etais au courant jusqu'au landemain. :joy:
 
 J'ai dû attendre le lendemain seul...
 
-[<<](https://github.com/luuduc34/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
+[<<](https://github.com/luuduc34/perso_info/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
