@@ -32,4 +32,8 @@ j'ai compris comment faire , je suis de nature trés calme et patient.
 On ma déja oublié en soirée loin de chez moi et personne 
 n'etais au courant jusqu'au landemain. :joy:
 
+#### TL;DR ####
+
+J'ai dû attendre le lendemain seul...
+
 [<<](https://github.com/luuduc34/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
