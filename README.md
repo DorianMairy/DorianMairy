@@ -9,6 +9,11 @@
 | Favorite food: Hamburgeur |
 | Pinneapple on pizza: Yes/No |
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
 
     Hobbies (smaller header)
 
