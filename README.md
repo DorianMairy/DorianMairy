@@ -12,7 +12,7 @@
 | Favorite food : | Hamburgeur |
 | Pinneapple on pizza : | **Yes!!** |
 
-## Hobbies ##
+## Passe-temps ##
 
 1. Karting
 2. Cuisine
@@ -21,12 +21,12 @@
     2. Satisfactory
     3. Battlefield 5
 
-### You can always count on me when... ###
+### Tu peux toujours compter sur moi quand... ###
 
 Je suis la pour vous aidez quand vous avec besoin d'aide et quand 
 j'ai compris comment faire , je suis de nature trés calme et patient.
 
-#### A funny story ####
+#### Une histoire drôle ####
 
 On ma déja oublié en soirée loin de chez moi et personne 
 On'etais au courant jusqu'au landemain. :joy:
