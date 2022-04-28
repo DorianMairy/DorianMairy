@@ -1,5 +1,5 @@
 # Dorian Mairy
-
+---------------
 *« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
 
 "Me, in one sentence" (as a smaller header)
