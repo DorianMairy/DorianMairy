@@ -10,11 +10,15 @@
 | Favorite food : | Hamburgeur |
 | Pinneapple on pizza : | **Yes!!** |
 
+## Hobbies 
+-------------
 
-    Hobbies (smaller header)
-
-    This should contain a bullet list of your hobbies
-    At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+1. Karting
+2. Cuisine
+3. Gaming
+    1. Call of Duty : Warzone
+    2. Satisfactory
+    3. Battlefield 5
 
     You can always count on me when... (smaller header)
 
