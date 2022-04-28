@@ -7,13 +7,10 @@
 
 | Question | Réponse |
 | ----------- | ----------- |
-| Birthday : | 20/03 |
-| Favorite color : | Vert |
-| Favorite food : | Hamburgeur |
-| Pinneapple on pizza : | <ul>
-<li>test</li>
-<li>Test</li>
-</ul>|
+| Anniversaire : | 20/03 |
+| Couleur préférée : | Vert |
+| Nourriture favorite : | Hamburgeur |
+| Ananas sur pizza : | **Yes!!** |
 
 
 ## Passe-temps ##
