@@ -9,8 +9,8 @@
 | Favorite food: Hamburgeur |
 | Pinneapple on pizza: Yes/No |
 
-| Syntax | Description |
 | ----------- | ----------- |
+| Syntax | Description |
 | Header | Title |
 | Paragraph | Text | 
 
