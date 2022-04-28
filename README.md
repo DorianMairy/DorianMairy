@@ -1,6 +1,6 @@
 # Dorian Mairy #
 ---------------
-<img src="image.jpg" widht="100">
+<img src="image.jpg" widht="100" height="80">
 
 *« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
 
