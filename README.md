@@ -11,7 +11,6 @@
 | Pinneapple on pizza : | **Yes!!** |
 
 ## Hobbies 
--------------
 
 1. Karting
 2. Cuisine
@@ -20,7 +19,7 @@
     2. Satisfactory
     3. Battlefield 5
 
-    You can always count on me when... (smaller header)
+### You can always count on me when... 
 
     Tell your teammates which positive contribution to the group you will make.
     This could be technical, making people feel comfortable, being an organiser...
