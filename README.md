@@ -1,6 +1,6 @@
 # Dorian Mairy #
 ---------------
-![Photo](image.jpg|=250x250 )
+![Photo](image.jpg=250x250 )
 *« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
 
 
@@ -30,4 +30,4 @@ j'ai compris comment faire , je suis de nature trés calme et patient.
 On ma déja oublié en soirée loin de chez moi et personne 
 On'etais au courant jusqu'au landemain. :joy:
 
-[<<](https://github.com/kingdragox99/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/luuduc34/markdown-challenge/blob/main/README.md)
+[<<](https://github.com/luuduc34/markdown-challenge/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
