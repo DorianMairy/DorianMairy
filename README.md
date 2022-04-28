@@ -5,7 +5,7 @@
 
 | Question | Réponse |
 | ----------- | ----------- |
-| Birthday: 20/03 |
+| Birthday : | 20/03 |
 | Favorite color : | Vert |
 | Favorite food : | Hamburgeur |
 | Pinneapple on pizza : | Yes/No |
