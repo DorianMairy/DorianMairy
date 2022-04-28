@@ -10,11 +10,11 @@
 | Birthday : | 20/03 |
 | Favorite color : | Vert |
 | Favorite food : | Hamburgeur |
-| Pinneapple on pizza : | **Yes!!** |
-<ul>
+| Pinneapple on pizza : | <ul>
 <li>test</li>
 <li>Test</li>
-</ul>
+</ul>|
+
 
 ## Passe-temps ##
 
