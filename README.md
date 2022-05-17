@@ -1,42 +1,22 @@
-# Dorian Mairy #
----------------
-<img src="image.jpg" widht="200" height="200">
+<h1 align="center">Hi 👋, I'm Dorian</h1>
+<h3 align="center">A passionate junior web developer from Belgium</h3>
 
-*« Si vous pensez qu'un professionnel coûte cher, vous n'avez pas idée de combien va vous coûter un incompétent »*
+- 🌱 I’m currently learning **Html, Css , Scss**
 
+- 📫 How to reach me **contact@dorian-mairy.be**
 
-| Question | Réponse |
-| ----------- | ----------- |
-| Anniversaire : | 20/03/2000 |
-| Couleur préférée : | Vert |
-| Nourriture favorite : | Hamburgeur |
-| Ananas sur pizza : | <ul><li>[ ] No<li>[x] Yes</ul> |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dorian-mairy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorian-mairy" height="30" width="40" /></a>
+<a href="https://discord.gg/Dorian Mairy#8661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dorian Mairy#8661" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-## Passe-temps ##
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorianmairy&show_icons=true&locale=en&layout=compact" alt="dorianmairy" /></p>
 
-1. Karting
-2. Cuisine
-3. Gaming
-    1. Call of Duty : Warzone
-    2. Satisfactory
-    3. Battlefield 5
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorianmairy&show_icons=true&locale=en" alt="dorianmairy" /></p>
 
-### Tu peux toujours compter sur moi quand... ###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorianmairy&" alt="dorianmairy" /></p>
 
-Je suis la pour vous aidez quand vous avec besoin d'aide et quand 
-j'ai compris comment faire , je suis de nature trés calme et patient.
-
-#### Une histoire drôle ####
-
-On ma déja oublié en soirée loin de chez moi et personne 
-n'etais au courant jusqu'au landemain. :joy:
-
-#### TL;DR ####
-
-J'ai dû attendre le lendemain seul...
-
-
-[<<](https://github.com/luuduc34/perso_info/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
-
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=1118508918&cover_image=true&theme=novatorem&bar_color=3d3846&bar_color_cover=true)]]
