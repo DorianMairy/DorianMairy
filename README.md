@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorianmairy&show_icons=true&locale=en" alt="dorianmairy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorianmairy&" alt="dorianmairy" /></p>
-https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=1118508918&cover_image=true&theme=novatorem&bar_color=3d3846&bar_color_cover=true
