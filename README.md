@@ -39,4 +39,4 @@ J'ai dû attendre le lendemain seul...
 
 [<<](https://github.com/luuduc34/perso_info/blob/main/README.md) | **Dorian Mairy** | [>>](https://github.com/QuentinMotte/markdown-challenge/blob/main/README.md)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1118508918&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1118508918&cover_image=true&theme=novatorem&bar_color=3d3846&bar_color_cover=false)]]
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=1118508918&cover_image=true&theme=novatorem&bar_color=3d3846&bar_color_cover=true)]]
