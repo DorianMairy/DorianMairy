@@ -9,7 +9,7 @@
 🔭 I’m currently working on [N/A](https://github.com/)  
   
 
-🌱 I’m currently learning : HTML - CSS - SCSS  
+🌱 I’m currently learning : @Becode Liège
   
 
 ❓ Ask me   
