@@ -65,7 +65,14 @@
 </a>
 <a href="https://linkedin.com/in/dorian-mairy" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+</a>
+<a href="https://discord.gg/EnJPXn6f88" target="_blank">
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+<a href="mail:dorian.mairybe@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -85,11 +92,18 @@
 
 <br/>  
 
+## Donate 
 <div align="center">
             <a href="https://www.buymeacoffee.com/Q8Bk9yZ" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" 
                     align="center"
                 />
-            </a></div>
+            </a>
+             <a href="https://paypal.me/DorianMairyBe?country.x=BE&locale.x=fr_FR" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" 
+                    align="center"
+                />
+            </a>
 <br />
