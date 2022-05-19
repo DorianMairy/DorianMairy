@@ -21,7 +21,8 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -52,7 +53,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" />  
 </div>
-
+  </div>
 </td></tr></table>  
 
 <br/>  
