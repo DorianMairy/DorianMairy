@@ -6,13 +6,11 @@
 ### <div align="center">I'm Dorian, a junior web developer 👨‍💻 from Belgium 🇧🇪</div>  
   
 
-🔭 I’m currently working on [N/A](https://github.com/)  
+🔭 I’m currently working on [Private Project](https://github.com/)  
   
 
 🌱 I’m currently learning : @Becode Liège
   
-
-❓ Ask me   
   
 
 ⚡ Fun fact: I use tabs over spaces  
