@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dorian, a junior web developer 👨‍💻 from Belgium 🇧🇪</div>  
   
 
-🔭 I’m currently working on [VirtuHeberg](https://www.virtuheberg.com/)  
+🔭 I’m currently working on [VirtuHeberg](https://www.virtuheberg.com/){:target="_blank"} 
   
 
 🌱 I’m currently learning : @Becode Liège
