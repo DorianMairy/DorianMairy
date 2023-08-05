@@ -9,7 +9,7 @@
 🔭 I’m currently working on [VirtuHeberg](https://www.virtuheberg.com/)
   
 
-🌱 I’m currently learning : @Becode Liège
+🌱 I’m currently learning : Laravel
   
   
 
